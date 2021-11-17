@@ -1,6 +1,7 @@
 # East Village
 
 ## Image 
+
 ![image](/East Village Image.png)
 
 ## Overview  
