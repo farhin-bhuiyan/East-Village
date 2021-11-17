@@ -2,7 +2,7 @@
 
 ## Image 
 
-![image](/East Village Image.png)
+![image](/New Image.png)
 
 ## Overview  
 The East Village is a neighborhood on the lower east side of Manhattan that comprises of the zip codes 10003 and 10009. During the East Village’s first development, the neighborhood dominantly consisted of Dutch settlers with an influx of German immigrants years later (Saraniero et al.). Due to the rise of commerce and the Erie Canal’s opening, the East Village became known as an upscale neighborhood in the early 19th century.
