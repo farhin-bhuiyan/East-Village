@@ -1,7 +1,7 @@
 # East Village
 
 ## Image 
-![image](/Highlighted Image.png)
+![image](/East Village Image.png)
 
 ## Overview  
 The East Village is a neighborhood on the lower east side of Manhattan that comprises of the zip codes 10003 and 10009. During the East Village’s first development, the neighborhood dominantly consisted of Dutch settlers with an influx of German immigrants years later (Saraniero et al.). Due to the rise of commerce and the Erie Canal’s opening, the East Village became known as an upscale neighborhood in the early 19th century.
@@ -21,7 +21,7 @@ Overall the East Village is ranked highly compared to other Manhattan neighborho
 ## East Village Roadway and Sidewalk Seating Availability
 ![image](/East Village Roadway Seating.png)
 ![image](/East Village Sidewalk Seating.png)
-According to the bar graphs above, the East Village has over 300 restaurants available for roadway seating availability, and just under 400 restaurants available for sidewalk seating. In comparison to the other neighborhoods in Manhattan it is ranked 4th in roadway availability and 3rd in sidewalk availability. However, it is important to note it may be ranked lower due to the smaller size of the neighborhood square footage wise. There is simply less space for the East Village to contain as many restaurants as other neighborhoods. For instance, the area of the East Village is .77 square miles while Midtown is 2.25 square miles. Therefore, while some neighborhoods may have a greater number of restaurants with reported sidewalk and roadway availability, this does not mean relative to the area it is better in rankings..
+According to the bar graphs above, the East Village has over 300 restaurants available for roadway seating availability, and just under 400 restaurants available for sidewalk seating. In comparison to the other neighborhoods in Manhattan it is ranked 4th in roadway availability and 3rd in sidewalk availability. However, it is important to note it may be ranked lower due to the smaller size of the neighborhood square footage wise. There is simply less space for the East Village to contain as many restaurants as other neighborhoods. For instance, the area of the East Village is .77 square miles while Midtown is 2.25 square miles. Therefore, while some neighborhoods may have a greater number of restaurants with reported sidewalk and roadway availability, this does not mean relative to the area it is better in rankings.
 
 ## East Village Alcohol Availability
 ![image](/East Village Alcohol.png)
